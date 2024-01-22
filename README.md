@@ -2,6 +2,8 @@
 
 This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![mobile (1)](https://github.com/miteshp98/fylo-data-storage-component-master/assets/145320555/556ae5f6-d03f-4c7d-85dc-964a71f3bf33)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,16 +30,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/fylo-data-storage-component-master/assets/145320555/95ef36bc-6356-4f88-8c0a-df65a0cbed03)
 
-
+![csscode](https://github.com/miteshp98/fylo-data-storage-component-master/assets/145320555/a3c7dc60-332a-41e9-88f7-d35ad3b0766d)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/fylo-data-storage-component-master)
+- Live Site URL: [live site URL](https://miteshp98.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
